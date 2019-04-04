@@ -9,7 +9,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Hẹn hò đất Phú Quốc Đảo',
-    siteUrl: 'https://123link.app',
+    siteUrl: 'https://facemmo.com',
     rssFeedTitle: 'henhophuquoc',
     rssFeedDescription: 'Đoàn Bình và Hẹn hò đất Phú Quốc Đảo',
   },

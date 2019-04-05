@@ -87,7 +87,7 @@ const Header = ({location}) => (
                 border: 0,
               },
             }}>
-            Thiên Đường 123link
+            Cổng Trời Facemmo
           </span>
         </Link>
 
@@ -148,7 +148,7 @@ const Header = ({location}) => (
                 borderRadius: 15,
               },
             }}
-            href="https://123link.app/"
+            href="https://facemmo.com/"
             target="_blank"
             rel="noopener">
             Bakadono {version}

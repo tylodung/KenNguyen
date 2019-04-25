@@ -1,17 +1,16 @@
 ---
-title: Phương tiện đi du lịch Phú Quốc
-author: [vjeux]
+title: Những phương tiện đi du lịch Phú Quốc
+author: [doanbinh]
 ---
 
 Để tới Phú Quốc bạn có thể đi bằng máy bay hoặc tàu cao tốc.
 
-![ten buc hinh](https://media.cungphuot.info/2013/11/5008/phuong-tien-di-toi-phu-quoc.jpg "ten buc hinh")
+![ten buc hinh](https://statics.vntrip.vn/data-v2/data-guide/img_content/1475207470_phuot-xe-may-phu-quoc.jpg "ten buc hinh")
 
 ##Máy bay : 
 
 Nếu đi từ máy bay bạn có thể bay trực tiếp từ Hà Nội, Thành phố Hồ Chí Minh, Cần Thơ, Rạch Giá. Các hãng hiện đang khai thác đường bay nội địa tới Phú Quốc bao gồm VietnamAirline và VietjetAir. Giá vé khứ hồi từ Sài Gòn dao động trong khoảng 1.200k ++ (VietjetAir) và 1.900k (VietnamAirline)  từ Hà Nội thấp nhất từ 3.600k (VietnamAirline)
 
-![ten buc hinh](https://media.cungphuot.info/2013/11/5008/san-bay-phu-quoc.jpg "ten buc hinh")
 
 **Hà Nội – Phú Quốc**
 
@@ -25,7 +24,6 @@ Vietnam Airlines khai thác mỗi ngày 17 chuyến bay với máy bay ATR và 1
 
 Vietnam Airlines khai thác mỗi ngày 1 chuyến bay với máy bay ATR khởi hành từ Cần Thơ đi Phú Quốc lúc 13:00 và đến nơi lúc 13:45. Chuyến bay theo chiều ngược lại khởi hành từ Phú Quốc lúc 11:35 và đến nơi lúc 12:20.
 
-![ten buc hinh](https://media.cungphuot.info/2013/11/5008/tau-cao-toc-di-phu-quoc.jpg "ten buc hinh")
 
 ##Tàu cao tốc : 
 
@@ -33,7 +31,6 @@ Tàu cao tốc đi Phú Quốc thường xuất phát từ Hà Tiên hoặc Rạ
 
 ##Các phương tiện đi lại ở Phú Quốc
 
-![ten buc hinh](https://media.cungphuot.info/2017/ads/thue-xe-may-phu-quoc.jpg "ten buc hinh")
 
 Trên đảo Phú Quốc luôn có sẵn các dịch vụ taxi, dịch vụ thuê xe du lịch cho đoàn. Tuy nhiên, nếu trong đoàn của bạn không có em bé và người già, các bạn nên thuê xe máy để khám phá Phú Quốc thuận tiện và tiết kiệm chi phí hơn. Giá thuê xe máy ở Phú Quốc dao động quanh 150k/1 ngày, xăng xe tự đổ.
 

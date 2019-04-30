@@ -1,11 +1,11 @@
 ---
-title: Biểu diễn nghệ thuật khai mạc năm du lịch quốc gia tại Phú Quôc
-author: [doanbinh]
+title: Chương trình biểu diễn nghệ thuật khai mạc năm du lịch quốc gia tại Phú Quốc
+author: [zpao]
 ---
 
-Chương trình biểu diễn nghệ thuật khai mạc Năm Du lịch quốc gia 2016 – Phú Quốc – Đồng bằng sông Cửu Long – “KHÁM PHÁ ĐẤT PHƯƠNG NAM”sẽ được tổ chức vào  lúc: 19h30, ngày 10/4/2016 tại Sân bay cũ, thị trấn Dương Đông, huyện Phú Quốc, tỉnh Kiên Giang.
+Chương trình biểu diễn nghệ thuật khai mạc Năm Du lịch quốc gia 2016 – Phú Quốc – Đồng bằng sông Cửu Long – “KHÁM PHÁ ĐẤT PHƯƠNG NAM” sẽ được tổ chức vào  lúc: 19h30, ngày 10/4/2016 tại Sân bay cũ, thị trấn Dương Đông, huyện Phú Quốc, tỉnh Kiên Giang.
 
-![ten buc hinh](https://cdn.baotainguyenmoitruong.vn/uploads/images/201604/original/images1503641_20160410_204550.jpg "ten buc hinh")
+![ten buc hinh](http://www.phuquoctaxi.com.vn/wp-content/uploads/2016/05/hinh1.jpg "ten buc hinh")
 
 **Với sự tham gia của:**
 

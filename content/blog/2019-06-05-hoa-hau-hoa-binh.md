@@ -1,9 +1,9 @@
 ---
 title: Phú Quốc sẽ diễn ra vòng chung kết Hoa hậu Hòa bình thế giới 2017
-author: [sophiebits]
+author: [doanbinh]
 ---
 
-Đêm 26-10-2017, tại đảo ngọc Phú Quốc sẽ diễn ra vòng chung kết Hoa hậu Hòa bình thế giới 2017
+Đêm 26-10-2017, tại đảo ngọc Phú Quốc sẽ diễn ra vòng chung kết Hoa hậu Hòa bình thế giới 2017...
 
 Cuộc thi Hoa hậu Hòa bình thế giới dự kiến sẽ diễn ra từ ngày 5 đến ngày 26-10-2017 tại TP.Hồ Chí Minh, Quảng Bình và Phú Quốc. Trong đó, tỉnh Quảng Bình sẽ là địa điểm được lựa chọn tổ chức phần thi trang phục các dân tộc; Phú Quốc (Kiên Giang) sẽ tổ chức trang phục áo tắm, vòng sơ khảo và chung kết.
 

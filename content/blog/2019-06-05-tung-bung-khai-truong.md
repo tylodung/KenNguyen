@@ -1,6 +1,6 @@
 ---
 title: Tưng bừng khai trương Sun Set Sanato Beach Club hoành tráng Bãi Trường Phú Quốc
-author: [zpao]
+author: [doanbinh]
 ---
 
 Sunset Sanato Beach Club Phú Quốc là tổ hợp dịch vụ vui chơi giải trí tại bãi biển riêng với chiều dài 400m bao gồm các quán bar, khu ẩm thực và khu giải trí nhằm phục vụ cho du khách trong và ngoài nước đến Phú Quốc. Theo kế hoạch thì Sunset Sanato Beach Club Phú Quốc sẽ được khai trương vào ngày 21/10/2017 với nhiều hoạt động sôi nổi và hoành tráng.
@@ -25,7 +25,7 @@ Foot massage,
 
 Pool bar – hồ bơi ngoài trời,…
  
- Với ai đang mong muốn tìm kiếm những trải nghiệm năng động, thử thách hơn để mang lại những cảm xúc mới lạ trong kỳ nghỉ của mình thì các trò chơi thể thao trên biển tại Sunset Sanato Phú Quốc  là một lựa chọn không thể bỏ qua. Với rất nhiều hoạt động đặc sắc, chắc chắn sẽ biến cuộc hành trình trở nên thú vị hơn đối với những lữ khách yêu thích sự sôi động.
+Với ai đang mong muốn tìm kiếm những trải nghiệm năng động, thử thách hơn để mang lại những cảm xúc mới lạ trong kỳ nghỉ của mình thì các trò chơi thể thao trên biển tại Sunset Sanato Phú Quốc  là một lựa chọn không thể bỏ qua. Với rất nhiều hoạt động đặc sắc, chắc chắn sẽ biến cuộc hành trình trở nên thú vị hơn đối với những lữ khách yêu thích sự sôi động.
 
 **3. Một số thông tin về dự án Sunset Sanato Beach**
 

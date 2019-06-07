@@ -1,10 +1,12 @@
 ---
 title: Biệt thự biển GO GREEN duy nhất tại Phú Quốc hút nhà đầu tư
 
-author: [sebmarkbage]
+author: [doanbinh]
 ---
 
-Biệt thự biển mang phong cách kiến trúc “Go Green” đang dần trở thành lựa chọn nghỉ dưỡng hàng đầu. Vì lẽ đó, các biệt thự biển tại các thiên đường như Bali, Phuket luôn hấp dẫn khách du lịch. Khảo sát giá cho thuê căn biệt thự “Go Green” tại đây trung bình khoảng 700 USD/đêm (khoảng hơn 14 triệu đồng/đêm) và “cháy phòng” vào mùa cao điểm.
+Biệt thự biển mang phong cách kiến trúc “Go Green” đang dần trở thành lựa chọn nghỉ dưỡng hàng đầu. Vì lẽ đó, các biệt thự biển tại các thiên đường như Bali, Phuket luôn hấp dẫn khách du lịch. 
+
+Khảo sát giá cho thuê căn biệt thự “Go Green” tại đây trung bình khoảng 700 USD/đêm (khoảng hơn 14 triệu đồng/đêm) và “cháy phòng” vào mùa cao điểm.
 
 ![ten buc hinh](http://nld.mediacdn.vn/2017/photo-1-1509938820214.jpg "ten buc hinh")
 
